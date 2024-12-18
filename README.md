@@ -1,1 +1,4 @@
 # blog
+
+Python
+Django
